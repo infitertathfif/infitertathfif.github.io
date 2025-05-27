@@ -1,4 +1,4 @@
-title: "Infiter Tathfif"
+title: ""
 author: "Infiter Tathfif"
 description: "University of Maryland"
 permalink: /:title/
@@ -16,6 +16,7 @@ minimal: true            # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
+   - {title: "Home", url: "https://github.com/infitertathfif.github.io"}
   - {file: "infiter.pdf", title: "CV"}
   - {file: "research.md", title: "Research"}
   - {file: "Publications.md", title: "Publications"}
